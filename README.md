@@ -1,4 +1,3 @@
-# Olá, Mundo
- Primeiro repositorio
-
-Consegui alterar o site do github!
+# Projeto em Python
+ 
+ Faço algumas aplicações básicas de machine learning
